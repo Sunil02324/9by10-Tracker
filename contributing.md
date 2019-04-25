@@ -40,8 +40,8 @@ Before creating or placing any new issue, please go through the following guidel
 
 ### Git Commit Message Guidelines
 1. Always use the Issue Number & Issue Name in the commit message followed by the short note about the changes made.
-Ex : <code>#123 - Issue Title.
-- Removed the styling of adding extra padding from custom.css</code>
+    Ex : #123 - Issue Title.<br>
+    Removed the styling of adding extra padding from custom.css
 2. Use the present tense ("Add feature" not "Added feature")
 3. Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
 4. Limit the first line to 72 characters or less
